@@ -1,0 +1,24 @@
+.p_tag, 
+.p_tag_cooler {
+    background-color: #FFC0CB;
+    font-family: 'Verdana', 'Dejavu Sans', 'sans-serif';
+
+}
+
+
+#div1 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#div2 {
+    background-color: #00FF00;
+    font-weight: 700;
+}
+
+
+
